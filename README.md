@@ -13,7 +13,7 @@ continuous pricing.
 The models are implemented in Python Mesa, an agent-based modeling framework effective to study the dynamics of a system and the impact of individual actions
 and reactions in complex systems. It is used because of its because of its versatility and integration with other Python libraries.
 
-Improvements could be made because ot the challenges when creating the ABMs. Consumer behaviors
+Improvements could be made because of the challenges when creating the ABMs. Consumer behaviors
 could be implemented more realistically, by adding a higher variety of customers reflecting reality better. Including different types of firms in the models, would improve
 the understanding of the influence of dynamic pricing strategies on market dynamics
 and the impact of different stakeholders. Another way to improve the use of ABMs is
