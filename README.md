@@ -24,7 +24,7 @@ by collaborating with e-commerce firms to get access to data on pricing strategi
 The ABMs can each be used by running the following files:
 * ABM_AssortmentOptimization.ipynb
 * ABM_DynamicPriceAdjustment.ipynb
-* ABM_ContinuousPricing.ipynbsbt or maven
+* ABM_ContinuousPricing.ipynb
 
 When running the files, the models will be simulated with with various combinations of the number of myopic and strategic customers. The simulation results will be saved to disc and visualized.
 
